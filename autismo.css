@@ -1,0 +1,59 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    color: aqua;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+background-color: rosybrown;
+padding: 20px;
+color: aliceblue;
+font-size: 28px;
+ }
+
+ section {
+    margin: 20px;
+    text-align: left;
+ }
+
+ img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+ }
+
+ footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ }
+
+ form {
+    margin-top: 20px;
+ }
+
+ textarea {
+      width: 100%;
+      height: 100px;
+      margin-top: 10px;
+      resize: none;
+ }
+
+ button {
+   background-color: #ff6699;
+   color: #fff;
+ }
+
+
+
+
+
+
+
